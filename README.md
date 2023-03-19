@@ -1,4 +1,4 @@
-##Pomodoro CLI
+## Pomodoro CLI
 
 This is a simple pomodoro timer for command line interface.
 As a small proyect, i wanted to build someting that i can use with _tmux_ and _NeoVim_. To control the time that i'm using for programming, study and rest my eyes of being hours straight in front the monitor. 
@@ -12,7 +12,7 @@ You can use:
 
 > python -m pip install plyer
 
-###Pomodoro interface
+### Pomodoro interface
 
 ![Process](images/process.png)
 
