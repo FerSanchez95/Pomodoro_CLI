@@ -1,0 +1,42 @@
+{
+    "eng":{
+        "welcome_msg": "Welcome to Pomodoro CLI",
+        "interval_msg": "How many pomodoros will you make?",
+        "input_mins":"Enter work minutes",
+        "input_rest":"Enter rest minutes",
+        "message_url": "What is the pomodoro technique?: ",
+        "pomodoro_url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
+        "error1": "ERROR. The numbre of minutes must be greater than 0 and less than 61",
+        "Initial_JT_Title":"Timer Start",
+        "Initial_JT_Message":"Started the work interval",
+        "Final_JT_Pmessage_1":"Work interval", "Final_JT_Pmessage_2":"completed",
+        "Final_JT_title":"Timer finished",
+        "Final_JT_message_1":"Finished the work interval","Final_JT_message_2":"Started the rest interval",
+        "Final_RT_Pmessage_1":"Rest interval", "Final_RT_Pmessage_2":"completed",
+        "Final_RT_title":"Rest finished",
+        "Final_RT_message":"Finished the rest interval",
+        "Interval_reboot":"Starting the next work interval.",
+        "Completed_msg":"Pomodoro Completed!",
+        "Final_msg":"Congratulations you finished your pomodoro"
+    },   
+    "esp":{
+        "welcome_msg": "Bienvenido a Pomodoro CLI",
+        "interval_msg": "¿Cúantos pomodoros harás?",
+        "input_mins":"Ingrese los minutos de trabajo",
+        "input_rest":"Ingrese los minutos de descanso",
+        "message_url": "¿Qué es la técnica pomodoro?: ",
+        "pomodoro_url": "https://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro",
+        "error1": "ERROR. El número debe ser mayor a 0 y menor que 61",
+        "Initial_JT_Title":"Inicio de temporizador",
+        "Initial_JT_Message":"Iniciado el intervalo de trabajo",
+        "Final_JT_Pmessage_1":"Intervalo de trabajo", "Final_JT_Pmessage_2":"finalizado",
+        "Final_JT_title":"Temporizdor finalizdo",
+        "Final_JT_message_1":"Finalizdo el intervalo de trabajo","Final_JT_message_2":"Iniciado el descanso del intervalo",
+        "Final_RT_Pmessage_1":"intervalo de descanso", "Final_RT_Pmessage_2":"finalizado",
+        "Final_RT_title":"Descanso finalizdo",
+        "Final_RT_message":"Finalizado el descanso del intervalo",
+        "Interval_reboot":"Iniciando el siguiente intervalo de trabajo.",
+        "Completed_msg":"¡Pomodoro finalizado!",
+        "Final_msg":"¡Felicidades Terminaste tu pomodoro!"
+    }
+}
